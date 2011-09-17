@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources><!-- Tlumaczenie PL by ACID .:forum.android.com.pl:..-->
+    <string name="app_name">Program instalacyjny certyfikatu</string>
+    <string name="pick_file_title">Wybierz certyfikat</string>
+    <string name="pkcs12_password_dialog_title">Wyodbnij z magazynu kluczy PKCS12</string>
+    <string name="extracting_pkcs12">Wyodrbnianie...</string>
+    <string name="pkcs12_file_password_dialog_title">Wyodrbnij z %s</string>
+    <string name="name_credential_dialog_title">Nadaj certyfikatowi nazw</string>
+    <string name="credential_name">Nazwa certyfikatu:</string>
+    <string name="credential_password">Wprowad haso, aby wyodrbni certyfikaty.</string>
+    <string name="credential_info">Pakiet zawiera:</string>
+    <string name="p12_description">Certyfikaty w magazynie kluczy PKCS12.</string>
+    <string name="one_userkey">jeden klucz uytkownika</string>
+    <string name="one_usercrt">jeden certyfikat uytkownika</string>
+    <string name="one_cacrt">jeden certyfikat urzdu certyfikacji</string>
+    <string name="n_cacrts">Certyfikaty urzdu certyfikacji %d</string>
+    <string name="password_error">Wprowadź prawidowe hasoł.</string>
+    <string name="password_empty_error">Wprowadź hasło.</string>
+    <string name="name_empty_error">Wprowad nazw.</string>
+    <string name="name_char_error">Wprowad nazw, ktra zawiera tylko litery i cyfry.</string>
+    <string name="storage_error">Nie mona zapisa certyfikatu. Kliknij przycisk OK, aby ponowi prb.</string>
+    <string name="unable_to_save_cert">Nie mona zapisa certyfikatu. Magazyn danych uwierzytelniania nie zosta wczony lub poprawnie zainicjowany.</string>
+    <string name="cert_not_saved">Certyfikat nie zosta zainstalowany.</string>
+    <string name="no_cert_to_saved">Brak certyfikatu do zainstalowania.</string>
+    <string name="intent_parse_error">Nie mona przeanalizowa zamiaru: %s</string>
+    <string name="cert_is_added">%s jest zainstalowany.</string>
+    <string name="cert_too_large_error">Instalacja nie powioda si. Rozmiar certyfikatu jest zbyt duy.</string>
+    <string name="cert_missing_error">Instalacja nie powioda si. Nie mona znale pliku certyfikatu.</string>
+    <string name="cert_read_error">Instalacja nie powioda si. Nie mona odczyta pliku certyfikatu.</string>
+    <string name="no_cert_file_found">Na karcie SD nie znaleziono pliku certyfikatu.</string>
+    <string name="sdcard_not_present">Brak karty SD.</string>
+</resources>
