@@ -400,7 +400,7 @@
 	<string name="hangup_sms">Odrzuć i wyślij SMS</string>
     <string name="count_of_persons_in_conference">%d kontaktów</string>
     <string name="not_connected">Niepołączony</string>
-    <string name="onscreenNoteText">Więcej</string>
+    <string name="onscreenNoteText">Notatka</string>
     <string name="onscreenVoiceDevices">Odbierz za pomocą</string>
     <string name="onscreenCallRecord">Nagrywaj</string>
     <string name="onscreenKeyboard">Klawiatura</string>
